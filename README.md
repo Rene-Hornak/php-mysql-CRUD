@@ -1,9 +1,10 @@
 # php-mysql-CRUD
 
-Project to build CRUD application for login logout on auto website
-Used stack: LAMP
+Project to build CRUD application for login logout on auto website  
+Used stack: **LAMP**
 
-Used sql:
+Used sql:  
+```sql
     CREATE TABLE autos (
         autos_id INTEGER NOT NULL KEY AUTO_INCREMENT,
         make VARCHAR(255),
